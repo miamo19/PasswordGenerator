@@ -66,9 +66,9 @@ This section should outline what is required to install and configure this proje
 
 We appreciate feedback and contribution to this repo! Before you get started, please see the following:
 
-- [General contribution guidelines](https://github.com/Developer-Student-Clubs-UBa/MailingList/blob/main/CONTRIBUTING.md)
-- [Code of conduct guidelines](https://github.com/Developer-Student-Clubs-UBa/MailingList/blob/main/CODE-OF-CONDUCT.md)
-- [Contribution guide](https://github.com/Developer-Student-Clubs-UBa/MailingList/blob/main/CONTRIBUTING.md)
+- [General contribution guidelines](https://github.com/Developer-Student-Clubs-UBa/PasswordGenerator/blob/main/CONTRIBUTING.md)
+- [Code of conduct guidelines](https://github.com/Developer-Student-Clubs-UBa/PasswordGenerator/blob/main/CODE-OF-CONDUCT.md)
+- [Contribution guide](https://github.com/Developer-Student-Clubs-UBa/PasswordGenerator/blob/main/CONTRIBUTING.md)
 
 ## Support + Feedback
 
