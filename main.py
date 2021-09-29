@@ -4,7 +4,7 @@
 
 def password_gen():
     return password_gen()
-    
+
 
 
 # Press the green button in the gutter to run the script.
