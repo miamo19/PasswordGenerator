@@ -14,10 +14,10 @@ def password_gen():
     # A normal password should contain at-least 8 characters
     # Let's try to specify it
     if length <= 7:
-        return print("Enter a number above 8")
+        return print("Enter atleast 8 characters")
 
     elif length >= 8:
-        print("What where you waiting for goat")
+        print("good job!!")
 
         # shuffling the special_characters
         random.shuffle(special_characters)
