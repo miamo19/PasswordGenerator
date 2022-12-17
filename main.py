@@ -3,6 +3,7 @@
 import random
 import string
 
+
 special_characters = list(string.ascii_letters + string.digits + "!@#$%^&*()/|;'`~-_")
 
 
